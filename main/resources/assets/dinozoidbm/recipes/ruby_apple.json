@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " R ",
+        "RAR",
+        " R "
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "item": "dinozoidbm:ruby"
+        },
+        "A":
+        {
+            "item": "minecraft:apple"
+        }
+    },
+    
+    "result":
+    {
+        "item": "dinozoidbm:ruby_apple",
+        "count": 1
+    }
+}
