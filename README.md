@@ -1,3 +1,3 @@
 # BasicMod
 
-This is DinoZoid#0454's Basic Mod.
+This is an old Minecraft mod, now an archived project.
